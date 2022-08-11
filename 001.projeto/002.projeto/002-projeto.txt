@@ -1,0 +1,4 @@
+var numero01 = 10;
+var numero02 = 30;
+var soma1n2 = numero01 + numero02;
+console.log(soma1n2);
